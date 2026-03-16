@@ -5,8 +5,8 @@ Architecture orientée objet complète.
 
 ## Aperçu
 
-![Gameplay](ping.png)
-![Gameplay](pong.png)
+![Gameplay](ping.jpg)
+![Gameplay](pong.jpg)
 
 ## Contrôles
 
